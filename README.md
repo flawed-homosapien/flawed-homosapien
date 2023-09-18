@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm flawed-homosapien</h1>
-<h3 align="center">A zealous frontend developer from Nigeria</h3>
+<h3 align="center">A zealous frontend developer based in Nigeria</h3>
 
 - 👯 I’m looking to collaborate on **e-Commerce projects, Blockchain & anything fin-tech related**
 
